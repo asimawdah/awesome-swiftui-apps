@@ -19,6 +19,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [fullmoon](https://github.com/mainframecomputer/fullmoon-ios) - Chat with private, locally running large language models on Apple devices. Built with Swift and SwiftUI. ([MIT](https://github.com/mainframecomputer/fullmoon-ios/blob/main/LICENSE))
 
+- [macai](https://github.com/Renset/macai) - A native macOS AI chat client that connects to a wide range of model providers. Built with Swift. ([Apache-2.0](https://github.com/Renset/macai/blob/main/LICENSE))
+
 
 ## Communication & Social
 
