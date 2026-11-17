@@ -124,6 +124,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [AdGuard for iOS](https://github.com/AdguardTeam/AdGuardForiOS) - An open-source content blocker for Safari on iPhone and iPad, with DNS privacy features. Built with Swift. ([GPL-3.0](https://github.com/AdguardTeam/AdGuardForiOS/blob/version/v4.5/LICENSE))
 
+- [Bitwarden](https://github.com/bitwarden/ios) - The official iOS client for the open-source password manager and authenticator. Built with Swift. ([GPL-3.0](https://github.com/bitwarden/ios/blob/main/LICENSE))
+
 - [Firefox](https://github.com/mozilla-mobile/firefox-ios) - Mozilla's open-source web browser for iPhone and iPad, with tracking protection and privacy controls. Built with Swift. ([MPL-2.0](https://github.com/mozilla-mobile/firefox-ios/blob/main/LICENSE))
 
 
