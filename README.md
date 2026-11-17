@@ -30,6 +30,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [Element X](https://github.com/element-hq/element-x-ios) - A modern Matrix client for encrypted messaging and decentralized communication. Built with SwiftUI and the Matrix Rust SDK. ([AGPL-3.0](https://github.com/element-hq/element-x-ios/blob/develop/LICENSE))
 
+- [Fabula](https://github.com/jasudev/FabulaItemsProvider) - A community app for sharing and communicating with developers. Built with Swift and SwiftUI for Apple platforms. ([MIT](https://github.com/jasudev/FabulaItemsProvider/blob/main/LICENSE))
+
 
 ## Developer Tools & Utilities
 
