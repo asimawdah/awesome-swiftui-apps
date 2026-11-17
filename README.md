@@ -76,6 +76,9 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 ## Health, Fitness & Outdoors
 
+- [Basic Car Maintenance](https://github.com/mikaelacaron/Basic-Car-Maintenance) - Track vehicle maintenance and keep a record of car service tasks. Built with SwiftUI. ([Apache-2.0](https://github.com/mikaelacaron/Basic-Car-Maintenance/blob/main/LICENSE))
+
+
 ## Home & Cloud
 
 - [Harbour](https://github.com/rrroyal/Harbour) - Manage Docker containers and services through a native client for iOS, iPadOS, and macOS. Built with SwiftUI. ([AGPL-3.0](https://github.com/rrroyal/Harbour/blob/main/LICENSE))
