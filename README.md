@@ -49,6 +49,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - A native, open-source code editor for macOS designed for developers. Built with Swift and SwiftUI. ([MIT](https://github.com/CodeEditApp/CodeEdit/blob/main/LICENSE))
 
+- [ControlRoom](https://github.com/twostraws/ControlRoom) - A macOS utility for managing and controlling Xcode Simulator devices. Built with Swift. ([MIT](https://github.com/twostraws/ControlRoom/blob/main/LICENSE))
+
 - [Gifski](https://github.com/sindresorhus/Gifski) - Convert videos into high-quality animated GIFs with a native macOS interface. Built with Swift. ([MIT](https://github.com/sindresorhus/Gifski/blob/main/license))
 
 - [Ice](https://github.com/jordanbaird/Ice) - A menu bar manager for macOS that helps organize and customize menu bar items. Built with Swift. ([GPL-3.0](https://github.com/jordanbaird/Ice/blob/main/LICENSE))
