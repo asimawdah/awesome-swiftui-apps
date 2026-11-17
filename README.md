@@ -71,6 +71,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI) - Browse movies and discover film details in a SwiftUI app powered by The Movie Database API. ([Apache-2.0](https://github.com/Dimillian/MovieSwiftUI/blob/master/LICENSE))
 
+- [SwiftUICraft](https://github.com/aheze/SwiftUICraft) - A Minecraft-inspired game built as a native SwiftUI app. ([MIT](https://github.com/aheze/SwiftUICraft/blob/main/LICENSE))
+
 
 ## Health, Fitness & Outdoors
 
