@@ -132,6 +132,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [Proton VPN](https://github.com/ProtonVPN/ios-mac-app) - The official open-source VPN client for iOS and macOS. Built with Swift. ([GPL-3.0](https://github.com/ProtonVPN/ios-mac-app/blob/develop/LICENSE))
 
+- [SideStore](https://github.com/SideStore/SideStore) - An alternative iOS app store for sideloading apps without requiring a continuously running AltServer. Built with Swift. ([AGPL-3.0](https://github.com/SideStore/SideStore/blob/develop/LICENSE))
+
 
 ## Contributing
 
