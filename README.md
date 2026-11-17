@@ -86,6 +86,9 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 ## Networking, Privacy & Security
 
+- [Firefox](https://github.com/mozilla-mobile/firefox-ios) - Mozilla's open-source web browser for iPhone and iPad, with tracking protection and privacy controls. Built with Swift. ([MPL-2.0](https://github.com/mozilla-mobile/firefox-ios/blob/main/LICENSE))
+
+
 ## Contributing
 
 Contributions are welcome. Please submit complete, usable applications that are primarily written in Swift and have a clearly identifiable open-source license. Frameworks, UI component libraries, templates, and incomplete tutorial projects belong in other lists.
