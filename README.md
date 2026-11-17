@@ -47,6 +47,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - A native, open-source code editor for macOS designed for developers. Built with Swift and SwiftUI. ([MIT](https://github.com/CodeEditApp/CodeEdit/blob/main/LICENSE))
 
+- [Gifski](https://github.com/sindresorhus/Gifski) - Convert videos into high-quality animated GIFs with a native macOS interface. Built with Swift. ([MIT](https://github.com/sindresorhus/Gifski/blob/main/license))
+
 
 ## Finance & Personal Management
 
