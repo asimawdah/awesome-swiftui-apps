@@ -63,6 +63,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [NTFS Tool](https://github.com/ntfstool/ntfstool) - A macOS utility for reading and writing NTFS volumes using Apple's FSKit. Built with Swift. ([MIT](https://github.com/ntfstool/ntfstool/blob/master/LICENSE))
 
+- [Pika](https://github.com/superhighfives/pika) - An open-source native colour picker for macOS. Built with Swift. ([MIT](https://github.com/superhighfives/pika/blob/main/LICENSE))
+
 - [Stats](https://github.com/exelban/stats) - A macOS system monitor that displays CPU, GPU, memory, network, disk, and sensor information in the menu bar. Built with Swift. ([MIT](https://github.com/exelban/stats/blob/master/LICENSE))
 
 - [Xcodes](https://github.com/XcodesOrg/XcodesApp) - Download, install, and switch between multiple versions of Xcode through a native macOS app. Built with Swift and SwiftUI. ([MIT](https://github.com/XcodesOrg/XcodesApp/blob/main/LICENSE))
