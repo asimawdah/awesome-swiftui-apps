@@ -36,6 +36,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [IcySky](https://github.com/Dimillian/IcySky) - An open-source client for the Bluesky social network. Built with SwiftUI. ([AGPL-3.0](https://github.com/Dimillian/IcySky/blob/main/LICENSE))
 
+- [Mlem](https://github.com/mlemgroup/mlem) - A native client for Lemmy, the federated link aggregator and discussion platform. Built with Swift and SwiftUI. ([GPL-3.0](https://github.com/mlemgroup/mlem/blob/main/LICENSE))
+
 
 ## Developer Tools & Utilities
 
