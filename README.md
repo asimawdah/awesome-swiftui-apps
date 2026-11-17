@@ -45,6 +45,9 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 ## Developer Tools & Utilities
 
+- [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - A native, open-source code editor for macOS designed for developers. Built with Swift and SwiftUI. ([MIT](https://github.com/CodeEditApp/CodeEdit/blob/main/LICENSE))
+
+
 ## Finance & Personal Management
 
 ## Games & Entertainment
