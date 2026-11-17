@@ -104,6 +104,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [Swiftfin](https://github.com/jellyfin/Swiftfin) - A native client for streaming media from a self-hosted Jellyfin server on iOS and tvOS. Built with Swift. ([MPL-2.0](https://github.com/jellyfin/Swiftfin/blob/main/LICENSE))
 
+- [Wikipedia](https://github.com/wikimedia/wikipedia-ios) - The official Wikipedia app for browsing and reading the free encyclopedia on iPhone and iPad. Built with Swift. ([MIT](https://github.com/wikimedia/wikipedia-ios/blob/main/LICENSE))
+
 
 ## Notes & Productivity
 
