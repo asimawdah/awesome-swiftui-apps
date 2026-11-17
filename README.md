@@ -117,6 +117,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [MiaoYan](https://github.com/tw93/MiaoYan) - A lightweight native Markdown notebook for Mac, iPhone, and iPad. Built with Swift. ([MIT](https://github.com/tw93/MiaoYan/blob/main/LICENSE))
 
+- [Milestones](https://github.com/jpsim/Milestones) - A small app for counting down the days until personal milestones and important dates. Built with SwiftUI. ([MIT](https://github.com/jpsim/Milestones/blob/main/LICENSE))
+
 
 ## Networking, Privacy & Security
 
