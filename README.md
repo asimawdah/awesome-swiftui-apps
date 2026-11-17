@@ -28,6 +28,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [Broadcast](https://github.com/daneden/Broadcast) - A write-only social client for composing and publishing posts without an endless timeline. Built with Swift and SwiftUI. ([MIT](https://github.com/daneden/Broadcast/blob/main/LICENSE))
 
+- [Element X](https://github.com/element-hq/element-x-ios) - A modern Matrix client for encrypted messaging and decentralized communication. Built with SwiftUI and the Matrix Rust SDK. ([AGPL-3.0](https://github.com/element-hq/element-x-ios/blob/develop/LICENSE))
+
 
 ## Developer Tools & Utilities
 
