@@ -78,6 +78,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [Basic Car Maintenance](https://github.com/mikaelacaron/Basic-Car-Maintenance) - Track vehicle maintenance and keep a record of car service tasks. Built with SwiftUI. ([Apache-2.0](https://github.com/mikaelacaron/Basic-Car-Maintenance/blob/main/LICENSE))
 
+- [Currents](https://github.com/PndaMan/Currents) - An offline-first fishing companion with catch logging, fishing forecasts, and offline maps. Built with Swift and SwiftUI. ([MIT](https://github.com/PndaMan/Currents/blob/master/LICENSE))
+
 
 ## Home & Cloud
 
