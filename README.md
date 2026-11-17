@@ -130,6 +130,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run and manage iOS apps inside a container without installing each app in the usual way. Built with Swift. ([AGPL-3.0](https://github.com/LiveContainer/LiveContainer/blob/main/LICENSE))
 
+- [Proton VPN](https://github.com/ProtonVPN/ios-mac-app) - The official open-source VPN client for iOS and macOS. Built with Swift. ([GPL-3.0](https://github.com/ProtonVPN/ios-mac-app/blob/develop/LICENSE))
+
 
 ## Contributing
 
