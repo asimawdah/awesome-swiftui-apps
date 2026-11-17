@@ -34,6 +34,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [Ice Cubes](https://github.com/Dimillian/IceCubesApp) - A feature-rich, open-source Mastodon client for browsing timelines and interacting with the fediverse. Built with SwiftUI. ([AGPL-3.0](https://github.com/Dimillian/IceCubesApp/blob/main/LICENSE))
 
+- [IcySky](https://github.com/Dimillian/IcySky) - An open-source client for the Bluesky social network. Built with SwiftUI. ([AGPL-3.0](https://github.com/Dimillian/IcySky/blob/main/LICENSE))
+
 
 ## Developer Tools & Utilities
 
