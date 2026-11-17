@@ -21,6 +21,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [macai](https://github.com/Renset/macai) - A native macOS AI chat client that connects to a wide range of model providers. Built with Swift. ([Apache-2.0](https://github.com/Renset/macai/blob/main/LICENSE))
 
+- [Pocket AI Lab](https://github.com/ananasDDA/pocket-ai-lab) - Run open-source language models locally on iPhone using MLX, llama.cpp, Core ML, and Apple Foundation Models. Built with Swift and SwiftUI. ([MIT](https://github.com/ananasDDA/pocket-ai-lab/blob/main/LICENSE))
+
 
 ## Communication & Social
 
