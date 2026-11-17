@@ -53,6 +53,9 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 ## Home & Cloud
 
+- [Harbour](https://github.com/rrroyal/Harbour) - Manage Docker containers and services through a native client for iOS, iPadOS, and macOS. Built with SwiftUI. ([AGPL-3.0](https://github.com/rrroyal/Harbour/blob/main/LICENSE))
+
+
 ## Media & Reading
 
 ## Notes & Productivity
