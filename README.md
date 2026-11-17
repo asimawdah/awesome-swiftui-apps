@@ -67,6 +67,9 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 ## Games & Entertainment
 
+- [AC Helper](https://github.com/Dimillian/ACHNBrowserUI) - An Animal Crossing: New Horizons companion app and in-game item catalogue. Built with SwiftUI. ([Apache-2.0](https://github.com/Dimillian/ACHNBrowserUI/blob/main/LICENSE))
+
+
 ## Health, Fitness & Outdoors
 
 ## Home & Cloud
