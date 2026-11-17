@@ -111,6 +111,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [FSNotes](https://github.com/glushchenko/fsnotes) - A fast Markdown note-taking app for Mac and iPhone with plain-text storage. Built with Swift. ([MIT](https://github.com/glushchenko/fsnotes/blob/master/LICENSE))
 
+- [KHabit](https://github.com/elkiwy/KHabit) - A minimal habit tracker focused on building and maintaining productive routines. Built with SwiftUI. ([GPL-3.0](https://github.com/elkiwy/KHabit/blob/master/LICENSE))
+
 
 ## Networking, Privacy & Security
 
