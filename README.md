@@ -51,6 +51,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [Ice](https://github.com/jordanbaird/Ice) - A menu bar manager for macOS that helps organize and customize menu bar items. Built with Swift. ([GPL-3.0](https://github.com/jordanbaird/Ice/blob/main/LICENSE))
 
+- [Maccy](https://github.com/p0deje/Maccy) - A lightweight clipboard manager for macOS with searchable clipboard history. Built with Swift. ([MIT](https://github.com/p0deje/Maccy/blob/master/LICENSE))
+
 
 ## Finance & Personal Management
 
