@@ -26,6 +26,9 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 ## Communication & Social
 
+- [Broadcast](https://github.com/daneden/Broadcast) - A write-only social client for composing and publishing posts without an endless timeline. Built with Swift and SwiftUI. ([MIT](https://github.com/daneden/Broadcast/blob/main/LICENSE))
+
+
 ## Developer Tools & Utilities
 
 ## Finance & Personal Management
