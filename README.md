@@ -134,6 +134,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [SideStore](https://github.com/SideStore/SideStore) - An alternative iOS app store for sideloading apps without requiring a continuously running AltServer. Built with Swift. ([AGPL-3.0](https://github.com/SideStore/SideStore/blob/develop/LICENSE))
 
+- [Tether](https://github.com/viktor-svirsky/tether) - Share an iPhone's mobile data connection with other devices over WireGuard. Built with Swift and SwiftUI. ([MIT](https://github.com/viktor-svirsky/tether/blob/main/LICENSE))
+
 
 ## Contributing
 
