@@ -115,6 +115,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [MakeItSo](https://github.com/peterfriese/MakeItSo) - A reminders and task-management app inspired by Apple's Reminders, built with SwiftUI and Firebase. ([Apache-2.0](https://github.com/peterfriese/MakeItSo/blob/main/LICENSE))
 
+- [MiaoYan](https://github.com/tw93/MiaoYan) - A lightweight native Markdown notebook for Mac, iPhone, and iPad. Built with Swift. ([MIT](https://github.com/tw93/MiaoYan/blob/main/LICENSE))
+
 
 ## Networking, Privacy & Security
 
