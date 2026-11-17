@@ -40,6 +40,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [reddit-swiftui](https://github.com/carson-katri/reddit-swiftui) - A cross-platform Reddit client for Apple devices. Built with SwiftUI. ([MIT](https://github.com/carson-katri/reddit-swiftui/blob/master/LICENSE))
 
+- [Signal](https://github.com/signalapp/Signal-iOS) - The iOS client for Signal, a private end-to-end encrypted messaging app. Built with Swift. ([AGPL-3.0](https://github.com/signalapp/Signal-iOS/blob/main/LICENSE))
+
 
 ## Developer Tools & Utilities
 
