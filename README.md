@@ -51,6 +51,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [ControlRoom](https://github.com/twostraws/ControlRoom) - A macOS utility for managing and controlling Xcode Simulator devices. Built with Swift. ([MIT](https://github.com/twostraws/ControlRoom/blob/main/LICENSE))
 
+- [eul](https://github.com/gao-sun/eul) - A lightweight macOS menu bar app for monitoring system status and hardware usage. Built with SwiftUI. ([MIT](https://github.com/gao-sun/eul/blob/master/LICENSE))
+
 - [Gifski](https://github.com/sindresorhus/Gifski) - Convert videos into high-quality animated GIFs with a native macOS interface. Built with Swift. ([MIT](https://github.com/sindresorhus/Gifski/blob/main/license))
 
 - [Ice](https://github.com/jordanbaird/Ice) - A menu bar manager for macOS that helps organize and customize menu bar items. Built with Swift. ([GPL-3.0](https://github.com/jordanbaird/Ice/blob/main/LICENSE))
