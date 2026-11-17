@@ -45,9 +45,9 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 ## Developer Tools & Utilities
 
-- [Applite](https://github.com/milanvarady/Applite) - A native macOS app catalogue for discovering and managing software distributed through Homebrew Cask. Built with Swift. ([MIT](https://github.com/milanvarady/Applite/blob/main/LICENSE.txt.txt))
+- [Applite](https://github.com/milanvarady/Applite) - A native macOS app catalogue for discovering and managing software distributed through Homebrew Cask. Built with Swift. ([MIT](https://github.com/milanvarady/Applite/blob/main/LICENSE.txt))
 
-- [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - A native, open-source code editor for macOS designed for developers. Built with Swift and SwiftUI. ([MIT](https://github.com/CodeEditApp/CodeEdit/blob/main/LICENSE.md.md))
+- [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - A native, open-source code editor for macOS designed for developers. Built with Swift and SwiftUI. ([MIT](https://github.com/CodeEditApp/CodeEdit/blob/main/LICENSE.md))
 
 - [ControlRoom](https://github.com/twostraws/ControlRoom) - A macOS utility for managing and controlling Xcode Simulator devices. Built with Swift. ([MIT](https://github.com/twostraws/ControlRoom/blob/main/LICENSE))
 
