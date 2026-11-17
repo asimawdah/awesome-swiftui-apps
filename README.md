@@ -57,6 +57,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [Stats](https://github.com/exelban/stats) - A macOS system monitor that displays CPU, GPU, memory, network, disk, and sensor information in the menu bar. Built with Swift. ([MIT](https://github.com/exelban/stats/blob/master/LICENSE))
 
+- [Xcodes](https://github.com/XcodesOrg/XcodesApp) - Download, install, and switch between multiple versions of Xcode through a native macOS app. Built with Swift and SwiftUI. ([MIT](https://github.com/XcodesOrg/XcodesApp/blob/main/LICENSE))
+
 
 ## Finance & Personal Management
 
