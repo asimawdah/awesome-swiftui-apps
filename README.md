@@ -55,6 +55,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control external monitor brightness and volume using Mac keyboard keys and native on-screen displays. Built with Swift. ([MIT](https://github.com/MonitorControl/MonitorControl/blob/main/LICENSE))
 
+- [Stats](https://github.com/exelban/stats) - A macOS system monitor that displays CPU, GPU, memory, network, disk, and sensor information in the menu bar. Built with Swift. ([MIT](https://github.com/exelban/stats/blob/master/LICENSE))
+
 
 ## Finance & Personal Management
 
