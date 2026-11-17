@@ -57,6 +57,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [Home Assistant](https://github.com/home-assistant/iOS) - The official companion app for controlling and monitoring a Home Assistant smart home. Built with Swift for Apple platforms. ([Apache-2.0](https://github.com/home-assistant/iOS/blob/main/LICENSE))
 
+- [Nextcloud](https://github.com/nextcloud/ios) - Access, sync, and share files stored on a self-hosted Nextcloud server from iPhone and iPad. Built with Swift. ([GPL-3.0](https://github.com/nextcloud/ios/blob/master/LICENSE))
+
 
 ## Media & Reading
 
