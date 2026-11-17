@@ -61,6 +61,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control external monitor brightness and volume using Mac keyboard keys and native on-screen displays. Built with Swift. ([MIT](https://github.com/MonitorControl/MonitorControl/blob/main/LICENSE))
 
+- [NTFS Tool](https://github.com/ntfstool/ntfstool) - A macOS utility for reading and writing NTFS volumes using Apple's FSKit. Built with Swift. ([MIT](https://github.com/ntfstool/ntfstool/blob/master/LICENSE))
+
 - [Stats](https://github.com/exelban/stats) - A macOS system monitor that displays CPU, GPU, memory, network, disk, and sensor information in the menu bar. Built with Swift. ([MIT](https://github.com/exelban/stats/blob/master/LICENSE))
 
 - [Xcodes](https://github.com/XcodesOrg/XcodesApp) - Download, install, and switch between multiple versions of Xcode through a native macOS app. Built with Swift and SwiftUI. ([MIT](https://github.com/XcodesOrg/XcodesApp/blob/main/LICENSE))
