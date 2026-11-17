@@ -62,6 +62,9 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 ## Media & Reading
 
+- [Gem for Hacker News](https://github.com/Livinglist/Gem) - A SwiftUI client for reading Hacker News stories and discussions. ([GPL-3.0](https://github.com/Livinglist/Gem/blob/main/LICENSE))
+
+
 ## Notes & Productivity
 
 ## Networking, Privacy & Security
