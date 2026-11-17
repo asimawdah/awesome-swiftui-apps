@@ -109,6 +109,9 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 ## Notes & Productivity
 
+- [FSNotes](https://github.com/glushchenko/fsnotes) - A fast Markdown note-taking app for Mac and iPhone with plain-text storage. Built with Swift. ([MIT](https://github.com/glushchenko/fsnotes/blob/master/LICENSE))
+
+
 ## Networking, Privacy & Security
 
 - [Firefox](https://github.com/mozilla-mobile/firefox-ios) - Mozilla's open-source web browser for iPhone and iPad, with tracking protection and privacy controls. Built with Swift. ([MPL-2.0](https://github.com/mozilla-mobile/firefox-ios/blob/main/LICENSE))
