@@ -62,6 +62,9 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 ## Finance & Personal Management
 
+- [EasyCrypto](https://github.com/mehrankmlf/EasyCrypto) - A cryptocurrency market app demonstrating clean architecture, MVVM, Combine, and coordinator-based navigation. Built with SwiftUI. ([MIT](https://github.com/mehrankmlf/EasyCrypto/blob/master/LICENSE))
+
+
 ## Games & Entertainment
 
 ## Health, Fitness & Outdoors
