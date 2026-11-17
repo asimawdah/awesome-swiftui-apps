@@ -45,9 +45,9 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 ## Developer Tools & Utilities
 
-- [Applite](https://github.com/milanvarady/Applite) - A native macOS app catalogue for discovering and managing software distributed through Homebrew Cask. Built with Swift. ([MIT](https://github.com/milanvarady/Applite/blob/main/LICENSE.txt))
+- [Applite](https://github.com/milanvarady/Applite) - A native macOS app catalogue for discovering and managing software distributed through Homebrew Cask. Built with Swift. ([MIT](https://github.com/milanvarady/Applite/blob/main/LICENSE.txt.txt))
 
-- [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - A native, open-source code editor for macOS designed for developers. Built with Swift and SwiftUI. ([MIT](https://github.com/CodeEditApp/CodeEdit/blob/main/LICENSE.md))
+- [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - A native, open-source code editor for macOS designed for developers. Built with Swift and SwiftUI. ([MIT](https://github.com/CodeEditApp/CodeEdit/blob/main/LICENSE.md.md))
 
 - [ControlRoom](https://github.com/twostraws/ControlRoom) - A macOS utility for managing and controlling Xcode Simulator devices. Built with Swift. ([MIT](https://github.com/twostraws/ControlRoom/blob/main/LICENSE))
 
@@ -59,11 +59,11 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [Maccy](https://github.com/p0deje/Maccy) - A lightweight clipboard manager for macOS with searchable clipboard history. Built with Swift. ([MIT](https://github.com/p0deje/Maccy/blob/master/LICENSE))
 
-- [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control external monitor brightness and volume using Mac keyboard keys and native on-screen displays. Built with Swift. ([MIT](https://github.com/MonitorControl/MonitorControl/blob/main/LICENSE))
+- [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control external monitor brightness and volume using Mac keyboard keys and native on-screen displays. Built with Swift. ([MIT](https://github.com/MonitorControl/MonitorControl/blob/main/License.txt))
 
 - [NTFS Tool](https://github.com/ntfstool/ntfstool) - A macOS utility for reading and writing NTFS volumes using Apple's FSKit. Built with Swift. ([MIT](https://github.com/ntfstool/ntfstool/blob/master/LICENSE))
 
-- [Pika](https://github.com/superhighfives/pika) - An open-source native colour picker for macOS. Built with Swift. ([MIT](https://github.com/superhighfives/pika/blob/main/LICENSE))
+- [Pika](https://github.com/superhighfives/pika) - An open-source native colour picker for macOS. Built with Swift. ([MIT](https://github.com/superhighfives/pika/blob/main/LICENSE.md))
 
 - [Stats](https://github.com/exelban/stats) - A macOS system monitor that displays CPU, GPU, memory, network, disk, and sensor information in the menu bar. Built with Swift. ([MIT](https://github.com/exelban/stats/blob/master/LICENSE))
 
@@ -72,7 +72,7 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 ## Finance & Personal Management
 
-- [EasyCrypto](https://github.com/mehrankmlf/EasyCrypto) - A cryptocurrency market app demonstrating clean architecture, MVVM, Combine, and coordinator-based navigation. Built with SwiftUI. ([MIT](https://github.com/mehrankmlf/EasyCrypto/blob/master/LICENSE))
+- [EasyCrypto](https://github.com/mehrankmlf/EasyCrypto) - A cryptocurrency market app demonstrating clean architecture, MVVM, Combine, and coordinator-based navigation. Built with SwiftUI. ([MIT](https://github.com/mehrankmlf/EasyCrypto/blob/master/LICENSE.md))
 
 
 ## Games & Entertainment
@@ -97,9 +97,9 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [Harbour](https://github.com/rrroyal/Harbour) - Manage Docker containers and services through a native client for iOS, iPadOS, and macOS. Built with SwiftUI. ([AGPL-3.0](https://github.com/rrroyal/Harbour/blob/main/LICENSE))
 
-- [Home Assistant](https://github.com/home-assistant/iOS) - The official companion app for controlling and monitoring a Home Assistant smart home. Built with Swift for Apple platforms. ([Apache-2.0](https://github.com/home-assistant/iOS/blob/main/LICENSE))
+- [Home Assistant](https://github.com/home-assistant/iOS) - The official companion app for controlling and monitoring a Home Assistant smart home. Built with Swift for Apple platforms. ([Apache-2.0](https://github.com/home-assistant/iOS/blob/main/LICENSE.md))
 
-- [Nextcloud](https://github.com/nextcloud/ios) - Access, sync, and share files stored on a self-hosted Nextcloud server from iPhone and iPad. Built with Swift. ([GPL-3.0](https://github.com/nextcloud/ios/blob/master/LICENSE))
+- [Nextcloud](https://github.com/nextcloud/ios) - Access, sync, and share files stored on a self-hosted Nextcloud server from iPhone and iPad. Built with Swift. ([GPL-3.0](https://github.com/nextcloud/ios/blob/master/LICENSE.txt))
 
 
 ## Media & Reading
@@ -112,11 +112,11 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - A free, open-source RSS reader for macOS, iOS, and iPadOS. Built with Swift. ([MIT](https://github.com/Ranchero-Software/NetNewsWire/blob/main/LICENSE))
 
-- [Swiftfin](https://github.com/jellyfin/Swiftfin) - A native client for streaming media from a self-hosted Jellyfin server on iOS and tvOS. Built with Swift. ([MPL-2.0](https://github.com/jellyfin/Swiftfin/blob/main/LICENSE))
+- [Swiftfin](https://github.com/jellyfin/Swiftfin) - A native client for streaming media from a self-hosted Jellyfin server on iOS and tvOS. Built with Swift. ([MPL-2.0](https://github.com/jellyfin/Swiftfin/blob/main/LICENSE.md))
 
 - [SwiftUI Hacker News](https://github.com/woxtu/SwiftUI-HackerNews) - A native Hacker News reader built with SwiftUI and Combine. ([MIT](https://github.com/woxtu/SwiftUI-HackerNews/blob/master/LICENSE))
 
-- [Wikipedia](https://github.com/wikimedia/wikipedia-ios) - The official Wikipedia app for browsing and reading the free encyclopedia on iPhone and iPad. Built with Swift. ([MIT](https://github.com/wikimedia/wikipedia-ios/blob/main/LICENSE))
+- [Wikipedia](https://github.com/wikimedia/wikipedia-ios) - The official Wikipedia app for browsing and reading the free encyclopedia on iPhone and iPad. Built with Swift. ([MIT](https://github.com/wikimedia/wikipedia-ios/blob/main/LICENSE.txt))
 
 
 ## Notes & Productivity
@@ -134,9 +134,9 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 ## Networking, Privacy & Security
 
-- [AdGuard for iOS](https://github.com/AdguardTeam/AdGuardForiOS) - An open-source content blocker for Safari on iPhone and iPad, with DNS privacy features. Built with Swift. ([GPL-3.0](https://github.com/AdguardTeam/AdGuardForiOS/blob/version/v4.5/LICENSE))
+- [AdGuard for iOS](https://github.com/AdguardTeam/AdGuardForiOS) - An open-source content blocker for Safari on iPhone and iPad, with DNS privacy features. Built with Swift. ([GPL-3.0](https://github.com/AdguardTeam/AdGuardForiOS/blob/version/v4.5/COPYING))
 
-- [Bitwarden](https://github.com/bitwarden/ios) - The official iOS client for the open-source password manager and authenticator. Built with Swift. ([GPL-3.0](https://github.com/bitwarden/ios/blob/main/LICENSE))
+- [Bitwarden](https://github.com/bitwarden/ios) - The official iOS client for the open-source password manager and authenticator. Built with Swift. ([GPL-3.0](https://github.com/bitwarden/ios/blob/main/LICENSE.txt))
 
 - [Firefox](https://github.com/mozilla-mobile/firefox-ios) - Mozilla's open-source web browser for iPhone and iPad, with tracking protection and privacy controls. Built with Swift. ([MPL-2.0](https://github.com/mozilla-mobile/firefox-ios/blob/main/LICENSE))
 
@@ -148,7 +148,7 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [Tether](https://github.com/viktor-svirsky/tether) - Share an iPhone's mobile data connection with other devices over WireGuard. Built with Swift and SwiftUI. ([MIT](https://github.com/viktor-svirsky/tether/blob/main/LICENSE))
 
-- [WireGuard for Apple platforms](https://github.com/WireGuard/wireguard-apple) - The official Apple-platform app for connecting to WireGuard VPN tunnels. Built with Swift. ([MIT](https://github.com/WireGuard/wireguard-apple/blob/master/LICENSE))
+- [WireGuard for Apple platforms](https://github.com/WireGuard/wireguard-apple) - The official Apple-platform app for connecting to WireGuard VPN tunnels. Built with Swift. ([MIT](https://github.com/WireGuard/wireguard-apple/blob/master/COPYING))
 
 
 ## Contributing
