@@ -53,6 +53,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [Maccy](https://github.com/p0deje/Maccy) - A lightweight clipboard manager for macOS with searchable clipboard history. Built with Swift. ([MIT](https://github.com/p0deje/Maccy/blob/master/LICENSE))
 
+- [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control external monitor brightness and volume using Mac keyboard keys and native on-screen displays. Built with Swift. ([MIT](https://github.com/MonitorControl/MonitorControl/blob/main/LICENSE))
+
 
 ## Finance & Personal Management
 
