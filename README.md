@@ -38,6 +38,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [Mlem](https://github.com/mlemgroup/mlem) - A native client for Lemmy, the federated link aggregator and discussion platform. Built with Swift and SwiftUI. ([GPL-3.0](https://github.com/mlemgroup/mlem/blob/main/LICENSE))
 
+- [reddit-swiftui](https://github.com/carson-katri/reddit-swiftui) - A cross-platform Reddit client for Apple devices. Built with SwiftUI. ([MIT](https://github.com/carson-katri/reddit-swiftui/blob/master/LICENSE))
+
 
 ## Developer Tools & Utilities
 
