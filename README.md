@@ -102,6 +102,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - A free, open-source RSS reader for macOS, iOS, and iPadOS. Built with Swift. ([MIT](https://github.com/Ranchero-Software/NetNewsWire/blob/main/LICENSE))
 
+- [Swiftfin](https://github.com/jellyfin/Swiftfin) - A native client for streaming media from a self-hosted Jellyfin server on iOS and tvOS. Built with Swift. ([MPL-2.0](https://github.com/jellyfin/Swiftfin/blob/main/LICENSE))
+
 
 ## Notes & Productivity
 
