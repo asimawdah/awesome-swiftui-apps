@@ -113,6 +113,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [KHabit](https://github.com/elkiwy/KHabit) - A minimal habit tracker focused on building and maintaining productive routines. Built with SwiftUI. ([GPL-3.0](https://github.com/elkiwy/KHabit/blob/master/LICENSE))
 
+- [MakeItSo](https://github.com/peterfriese/MakeItSo) - A reminders and task-management app inspired by Apple's Reminders, built with SwiftUI and Firebase. ([Apache-2.0](https://github.com/peterfriese/MakeItSo/blob/main/LICENSE))
+
 
 ## Networking, Privacy & Security
 
