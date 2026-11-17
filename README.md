@@ -64,6 +64,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [Gem for Hacker News](https://github.com/Livinglist/Gem) - A SwiftUI client for reading Hacker News stories and discussions. ([GPL-3.0](https://github.com/Livinglist/Gem/blob/main/LICENSE))
 
+- [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - A free, open-source RSS reader for macOS, iOS, and iPadOS. Built with Swift. ([MIT](https://github.com/Ranchero-Software/NetNewsWire/blob/main/LICENSE))
+
 
 ## Notes & Productivity
 
