@@ -136,6 +136,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [Tether](https://github.com/viktor-svirsky/tether) - Share an iPhone's mobile data connection with other devices over WireGuard. Built with Swift and SwiftUI. ([MIT](https://github.com/viktor-svirsky/tether/blob/main/LICENSE))
 
+- [WireGuard for Apple platforms](https://github.com/WireGuard/wireguard-apple) - The official Apple-platform app for connecting to WireGuard VPN tunnels. Built with Swift. ([MIT](https://github.com/WireGuard/wireguard-apple/blob/master/LICENSE))
+
 
 ## Contributing
 
