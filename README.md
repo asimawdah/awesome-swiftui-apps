@@ -128,6 +128,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [Firefox](https://github.com/mozilla-mobile/firefox-ios) - Mozilla's open-source web browser for iPhone and iPad, with tracking protection and privacy controls. Built with Swift. ([MPL-2.0](https://github.com/mozilla-mobile/firefox-ios/blob/main/LICENSE))
 
+- [LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run and manage iOS apps inside a container without installing each app in the usual way. Built with Swift. ([AGPL-3.0](https://github.com/LiveContainer/LiveContainer/blob/main/LICENSE))
+
 
 ## Contributing
 
