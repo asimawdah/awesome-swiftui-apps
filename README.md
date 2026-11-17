@@ -80,6 +80,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 - [Currents](https://github.com/PndaMan/Currents) - An offline-first fishing companion with catch logging, fishing forecasts, and offline maps. Built with Swift and SwiftUI. ([MIT](https://github.com/PndaMan/Currents/blob/master/LICENSE))
 
+- [Velik](https://github.com/avdyushin/Velik) - A cycling and ride-tracking app for recording outdoor activities. Built with SwiftUI. ([Apache-2.0](https://github.com/avdyushin/Velik/blob/master/LICENSE))
+
 
 ## Home & Cloud
 
