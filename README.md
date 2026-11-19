@@ -72,6 +72,8 @@ A curated list of open-source applications built with **Swift**, including **Swi
 
 ## Finance & Personal Management
 
+- [BitTool Signer for iOS](https://github.com/bitbill/bittool-signer-ios) - Review and sign transaction requests on a dedicated offline iPhone, exchanging requests and signatures through QR codes. Built with Swift. ([MIT](https://github.com/bitbill/bittool-signer-ios/blob/main/LICENSE))
+
 - [EasyCrypto](https://github.com/mehrankmlf/EasyCrypto) - A cryptocurrency market app demonstrating clean architecture, MVVM, Combine, and coordinator-based navigation. Built with SwiftUI. ([MIT](https://github.com/mehrankmlf/EasyCrypto/blob/master/LICENSE.md))
 
 
